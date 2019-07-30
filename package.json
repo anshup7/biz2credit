@@ -1,0 +1,12 @@
+{
+  "name": "geosearchcustomer",
+  "version": "1.0.7",
+  "description": "Searches customers residing in 100km range of Dublin",
+  "main": "controllers/baseHandler.js",
+  "scripts": {
+    "start": "node controllers/baseHandler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshuman Upadhyay",
+  "license": "ISC"
+}
